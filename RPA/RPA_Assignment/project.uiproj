@@ -1,0 +1,6 @@
+{
+  "Name": "RPA_Assignment",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
